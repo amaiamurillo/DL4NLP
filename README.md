@@ -1,0 +1,1 @@
+This project aims to evaluate the recently released [HiTZ/latxa-7b-v1]([https://www.google.com](https://huggingface.co/HiTZ/latxa-7b-v1?library=true)https://huggingface.co/HiTZ/latxa-7b-v1?library=true) on sentiment analysis with few-shot learning approach.
